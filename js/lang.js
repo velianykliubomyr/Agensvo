@@ -27,6 +27,10 @@ const homeTexts = {
 		en: "Home",
 	},
 	"OUR_SERVICES": {
+		ua: "Ми докладаємо всі зусилля аби наш був преміум-якості",
+		en: "We make every effort to ensure that ours is of premium quality",
+	},
+	"OUR_Text": {
 		ua: "Наш сервіс",
 		en: "OUR SERVICES",
 	},
@@ -69,6 +73,10 @@ const homeTexts = {
 	"Property_Gallery": {
 		ua: "Галерея власності",
 		en: "Property Gallery",
+	},
+	"Property_Text": {
+		ua: "Галерея квартир придбаними щасливими клієнтами",
+		en: "Gallery of apartments purchased by happy customers",
 	},
 	"Galleryyy": {
 		ua: "Галарея",
@@ -135,6 +143,10 @@ const homeTexts = {
 		en: "Your Feedback",
 	},
 	"Request_for_Contact": {
+		ua: "Дозвольте нам надати вам більше інформації про веб-сайт спеціальної пропозиції, який ви хочете отримати. Будь ласка, заповніть форму нижче. <br>У нас є мільйони власників сайтів, які раді працювати з нами!",
+		en: "Let us give you more details about the special offer website you want us. Please fill out the form below. <br> We have million of website owners who happy to work with us!",
+	},
+	"Request_for_Text": {
 		ua: "Запит на контакт",
 		en: "Request for Contact",
 	},
@@ -167,16 +179,20 @@ const homeTexts = {
 		en: "Spacious and Large Garden",
 	},
 	"Spaciouss": {
-		ua: "Просторий і великий сад",
-		en: "Spacious and Large Garden",
+		ua: "Просторі апартаменти",
+		en: "Spacious appartaments",
 	},
 	"Spaciousss": {
 		ua: "Просторий і великий сад",
 		en: "Spacious and Large Garden",
 	},
 	"Property": {
-		ua: "Деталі власності",
+		ua: "Деталі придбання",
 		en: "Property Details",
+	},
+	"Property_d": {
+		ua: "Усе про придбання",
+		en: "All about acquisition",
 	},
 
 	"Contact": {
@@ -240,8 +256,8 @@ const homeTexts = {
 		en: "Agent Details",
 	},
 	"Quisque": {
-		ua: "Детальніше",
-		en: "Quisque eget nisl id nulla sagittis auctor quis id. Aliquam qui",
+		ua: "Чесні відгуки від наших щасливих клієнтів",
+		en: "Honest reviews from our happy customers",
 	},
 	"Agentt": {
 		ua: "Агент",
@@ -262,6 +278,10 @@ const homeTexts = {
 	"Happy_Customers": {
 		ua: "Щасливі клієнти",
 		en: "Happy Customers",
+	},
+	"Happy_text": {
+		ua: "Любимо своїх клієнтів, як вони нас!",
+		en: "We love our clients as much as they love us!",
 	},
 
 	"They": {

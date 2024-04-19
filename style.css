@@ -2332,7 +2332,9 @@ select.mobile-device {
 .footer-distributed form input:-ms-input-placeholder {
     color: #999;
 }
-
+.img-responsive{
+    opacity: 0.1;
+}
 
 /* The magnify glass icon */
 
