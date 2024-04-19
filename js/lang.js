@@ -285,8 +285,8 @@ const homeTexts = {
 	},
 
 	"They": {
-		ua: "They have got my project on time with the competition with",
-		en: "Вони отримали мій проект вчасно на конкурсі",
+		ua: "Вони отримали мій проект вчасно на конкурсі",
+		en: "They have got my project on time with the competition with",
 	},
 	"Contact_Me": {
 		ua: "Контакт зі мною",
