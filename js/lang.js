@@ -35,16 +35,16 @@ const homeTexts = {
 		en: "OUR SERVICES",
 	},
 	"Full": {
-		ua: "Повністю мебльована",
-		en: "Full Furnished",
+		ua: "Квартира №1",
+		en: "Appartament №1",
 	},
 	"Fulll": {
-		ua: "Повністю мебльована",
-		en: "Full Furnished",
+		ua: "Квартира №2",
+		en: "Appartament №2",
 	},
 	"Fullll": {
-		ua: "Повністю мебльована",
-		en: "Full Furnished",
+		ua: "Квартира №3",
+		en: "Appartament №2",
 	},
 	"Readd": {
 		ua: "Детальніше",
