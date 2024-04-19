@@ -175,16 +175,16 @@ const homeTexts = {
 		en: "Popular",
 	},
 	"Spacious": {
-		ua: "Просторий і великий сад",
-		en: "Spacious and Large Garden",
+		ua: "Просторі апартаменти",
+		en: "Spacious appartaments",
 	},
 	"Spaciouss": {
 		ua: "Просторі апартаменти",
 		en: "Spacious appartaments",
 	},
 	"Spaciousss": {
-		ua: "Просторий і великий сад",
-		en: "Spacious and Large Garden",
+		ua: "Просторі апартаменти",
+		en: "Spacious appartaments",
 	},
 	"Property": {
 		ua: "Деталі придбання",
@@ -224,8 +224,12 @@ const homeTexts = {
 		en: "View Gallery",
 	},
 	"Full_Furnished": {
-		ua: "Повністю мебльована",
-		en: "Full Furnished",
+		ua: "Квартири",
+		en: "Appartament",
+	},
+	"FullT": {
+		ua: "Чудовий вибір квартир на любий смак",
+		en: "A great selection of apartments for every taste",
 	},
 	"Awards": {
 		ua: "Компанія з нерухомості, відзначена нагородами",
