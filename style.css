@@ -2142,6 +2142,9 @@ select.mobile-device {
     background: url(images/bg.png) no-repeat center center #fff;
 }
 
+.owl-stage{
+	transform: none !important;
+}
 
 /*------------------------------------------------------------------
     FOOTER

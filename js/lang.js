@@ -231,6 +231,18 @@ const homeTexts = {
 		ua: "Чудовий вибір квартир на любий смак",
 		en: "A great selection of apartments for every taste",
 	},
+	"FulllT": {
+		ua: "Чудовий вибір квартир на любий смак",
+		en: "A great selection of apartments for every taste",
+	},
+	"FullllT": {
+		ua: "Чудовий вибір квартир на любий смак",
+		en: "A great selection of apartments for every taste",
+	},
+	"Full_text": {
+		ua: "Чудова квартира із шикарними євро-ремонтом та чудовими сусідами",
+		en: "A wonderful apartment with chic Euro renovations and wonderful neighbors",
+	},
 	"Awards": {
 		ua: "Компанія з нерухомості, відзначена нагородами",
 		en: "Awards Winning Real Estate Company",
