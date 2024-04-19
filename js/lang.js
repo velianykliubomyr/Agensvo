@@ -143,8 +143,8 @@ const homeTexts = {
 		en: "Your Feedback",
 	},
 	"Request_for_Contact": {
-		ua: "Дозвольте нам надати вам більше інформації про веб-сайт спеціальної пропозиції, який ви хочете отримати. Будь ласка, заповніть форму нижче. <br>У нас є мільйони власників сайтів, які раді працювати з нами!",
-		en: "Let us give you more details about the special offer website you want us. Please fill out the form below. <br> We have million of website owners who happy to work with us!",
+		ua: "Дозвольте нам надати вам більше інформації про веб-сайт спеціальної пропозиції, який ви хочете отримати. Будь ласка, заповніть форму нижче.У нас є мільйони власників сайтів, які раді працювати з нами!",
+		en: "Let us give you more details about the special offer website you want us. Please fill out the form below. We have million of website owners who happy to work with us!",
 	},
 	"Request_for_Text": {
 		ua: "Запит на контакт",
