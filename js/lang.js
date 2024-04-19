@@ -259,6 +259,10 @@ const homeTexts = {
 		ua: "Чесні відгуки від наших щасливих клієнтів",
 		en: "Honest reviews from our happy customers",
 	},
+	"Quisquee": {
+		ua: "Чесні відгуки від наших щасливих клієнтів",
+		en: "Honest reviews from our happy customers",
+	},
 	"Agentt": {
 		ua: "Агент",
 		en: "The Agent",
